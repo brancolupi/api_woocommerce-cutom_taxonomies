@@ -1,0 +1,15 @@
+{
+    "name" : "Prodotto 3",
+    "type" : "simple",
+    "regular_price" : "19.99",
+    "description" : "Descirizone prodotto prova pluto",
+    "categories": [
+                    { "id": "77" },
+                    { "id": "176"}
+    ],
+    "brand" : [ "alessi", "bluemarines" ],
+    "caratteristiche_prodotti_capelli" : [ "capello-trattato", "tipologia-capello" ],
+    "bollino" : [ "green", "naturale"],
+    "caratteristiche" : [ "accessori-colore", "anti-pollution" ]
+}
+

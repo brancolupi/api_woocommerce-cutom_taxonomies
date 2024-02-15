@@ -1,0 +1,1 @@
+https://optimistic-noether.78-46-83-170.plesk.page/wp-json/wc/v2/products?consumer_key=ck_0313fb8cacbe7f5d33efc155fb03e259ce6df3ee&consumer_secret=cs_d5a73073d5d5fc8e344672467f990fdd928e8216
